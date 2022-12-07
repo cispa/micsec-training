@@ -13,3 +13,6 @@ Afterward, you can execute the file and view the results like the following:
 ./cache_measure
 python3 plot.py cache.log
 ```
+
+A working solution could look like this:
+![solution](./solution/working_solution.png)
