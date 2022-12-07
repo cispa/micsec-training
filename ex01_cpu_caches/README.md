@@ -15,4 +15,5 @@ python3 plot.py cache.log
 ```
 
 A working solution could look like this:
+
 ![solution](./solution/working_solution.png)
