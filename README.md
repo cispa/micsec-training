@@ -1,5 +1,5 @@
 # Turning Timing Differences into Data Leakage
-This is a hands-on training session by Daniel Weber and Michael Schwarz given for the  International Winter School on Microarchitectural Security 2022 (Mic-Sec '22)
+This is a hands-on training session by Daniel Weber and Michael Schwarz given for the  International Winter School on [Microarchitectural Security 2022 (Mic-Sec '22)](https://www.ip-paris.fr/en/international-winter-school-microarchitectural-security-2022).
 
 ## Overview
 In this repository you can find the three exercises (together with their solutions) and the presentation slides.
